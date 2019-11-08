@@ -1,0 +1,17 @@
+---
+---
+
+$header-bg-color: #2e70ba !default;
+
+@import "{{ site.theme }}";
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: none;
+}
+
+.main-content {
+  h1, h2, h3, h4, h5,h6 { color:##2e70ba; }
+}
