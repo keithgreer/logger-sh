@@ -14,7 +14,7 @@ Make logger.sh executable:
 
 ```chmod +x logger.sh```
 
-You will be able to start using the script from inside the repository. 
+You will be able to start using the script from inside the repository. Use quotes around your logged message string. 
 
 ```logger.sh "This is my message"``` 
 
